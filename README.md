@@ -1,6 +1,10 @@
 ## Sam Niechcial
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a socially and environmentally conscientious ENTP guy with ADH tendencies a passion for music, forging new neural pathways and writing clean and efficient code.
+
+In my diverse career to date, I've worked in healthcare, social care, tech support and startups, fuelled throughout by my desire to learn, try my hand at new challenges, and help those less fortunate than myself.
+
+I'm currently building my full stack developer skills at Makers Academy, and once I'm finished there, I will be looking for a Junior Developer role, ideally in a unbounded environment where taking best practice approaches and having the freedom to debate those approaches are more important than blindly following orders, and ethical codes are more highly valued than dress codes.
 
 ## Skills
 
