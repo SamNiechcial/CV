@@ -1,4 +1,4 @@
-## Your Name
+## Sam Niechcial
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (March to June)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,7 +34,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Lambeth College (September 2010 to July 2011)
 
 - Subject, any specialisms
 - Grade
@@ -44,7 +44,52 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**World Travel Blog** (October 2016 to October 2017)
+*Copy Editor & Photographer*
+
+• Proof-read, correct spelling and grammar errors and suggest phrasing changes
+• Capture, edit and upload images
+• Provide input on destinations and topics for posts
+
+**Deliveroo** (January 2016 to September 2016)    
+*Regional Pipeline Manager*
+
+• Manage new rider supply for 12 cities in Scotland and the North of the UK
+• Process, assess, and make decisions on applications for new rider positions, utilizing a variety of specialist and bespoke software and web platforms
+• Support the monitoring of applications against targets, alerting senior sta  to any potential problems as necessary
+• Provide on-the-ground feedback on software and hardware tooling to senior management to assist further development of the application process
+• Manage and maintain the telephony and broadband hardware in the o ce
+• Liaise with VOIP telephony provider to resolve service issues
+
+**House Doctor** (October 2011 to January 2016)   
+*Personal IT Assistant & Handyman*
+
+• Provide tailored home IT support services to clients as requested
+• Assist with general household maintainence work, including tiling,
+basic woodwork, plumbing, electrical installations and maintainance of white goods
+
+**NHS** (March 2004 to October 2011)
+*Locum Phlebotomist & Research Assistant*
+
+• Draw blood samples for biochemical analysis
+• Understand analytical requirements and draw blood samples
+as appropriate
+• Work flexibly in inpatient, outpatient and domiciliary environments
+• Practice correct infection control procedures at all times
+• Control patient interaction and de-escalate potentially dangerous situations
+• Respond with appropriate first aid to vasovagal patients
+
+**Jigsaw 4 U** (August 2003 to October 2011)
+*Young Persons Advocate*
+
+• Work  exibly around the country, including driving and long-distance visits
+• Meet with children and young people to engage in a wide variety
+• of activities
+• Build relationships with young people through these meetings to
+understand their views
+• Advocate for the views of children and young people in care in
+o cial meetings
+• Provide advice on resolving issues arising as a result of being in care
+• Generate and  le timely visit reports to advocacy project supervisor
+• Attend regular performance reviews and adjust approaches to issues
+as required
