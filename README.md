@@ -1,6 +1,8 @@
 ## Sam Niechcial
 
-I am a full stack web developer, I've just finished the Makers Academy bootcamp, and I'm looking for work in web development. Independently, in pairs, and in small teams, I've created object-oriented applications, in both Ruby and JavaScript, using a variety of frameworks including Ruby on Rails and Express. At Makers, we are trained to be language agnostic developers, with a strong foundation in the principles of OO design, so I will be quick to pick up syntax and follow style guides in new languages at any job I take up. I'm fully up to date with modern web development best practice. All the projects I've written or contributed to writing have been created using a strict test first approach, and I follow good practice in git workflow, agile methodology (with regular stand-ups and two day sprints) and continuous feedback.
+I am a full stack web developer, I've just finished the Makers Academy bootcamp, and I'm looking for work in web development.
+
+Independently, in pairs, and in small teams, I've created object-oriented applications, in both Ruby and JavaScript, using a variety of frameworks including Ruby on Rails and Express. At Makers, we are trained to be language agnostic developers, with a strong foundation in the principles of OO design, so I will be quick to pick up syntax and follow style guides in new languages at any job I take up. I'm fully up to date with modern web development best practice. All the projects I've written or contributed to writing have been created using a strict test first approach, and I follow good practice in git workflow, agile methodology (with regular stand-ups and two day sprints) and continuous feedback.
 
 I'm a socially and environmentally conscientious ENTP guy with ADH tendencies and a passion for music, reading, forging new neural pathways and writing clean and efficient code. As a outgoing debater personality type, I'm not afraid to raise issues I may have with working practices wherever I see them, and will make an engaging and enlivening addition to any team which takes me on.
 
@@ -8,9 +10,16 @@ In my diverse career to date, I've worked in healthcare, social care, tech suppo
 
 I'm currently looking for a Junior Developer role, ideally in a unbounded environment where taking best practice approaches (and having the freedom to debate those approaches) are more important than blindly following orders, and ethical codes are valued over dress codes.
 
-[PROJECTS](#Projects) | [SKILLS](#Skills) | [EXPERIENCE](#Experience) | [EDUCATION](#Education) | [BLOG](https://medium.com/@danielmiller5791) | [INTERESTS](#Interests)
+[PROJECTS](##Projects) | [SKILLS](##Skills) | [EDUCATION](##Education) | [EXPERIENCE](##Experience) |  [INTERESTS](##Interests)
 
 ## Projects
+
+|         Project         |                                                                                                                                                            Summary                                                                                                                                                           | Team Size |                                 Tech Stack                                |               Testing & Integration               |
+|:-----------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------:|:-------------------------------------------------------------------------:|:-------------------------------------------------:|
+| Prescription Blockchain | For our final project we created a blockchain to store pharmaceutical prescriptions.  To learn more about blockchain technology we wrote the blockchain algorithm from scratch.  I am especially proud of my contribution to the back end and testing content.                                                               | 4         | CryptoJS, Express, EJS, HTML/CSS, Heroku, jQuery, MongoDB, Mongoose, Node | Cypress, Jasmine, Istanbul, Travis CI             |
+| Acebook                 | We created a Facebook clone with the objective of familiarising ourselves with Rails.  Demonstrates good Agile teamwork, Git workflow and understanding of database and routing structure.                                                                                                                                   | 4         | Heroku, HTML/CSS, PostgreSQL, Ruby, Rails                                 | Capybara, Code Climate, RSpec, Rubocop, Travis CI |
+| Oystercard Challenge    | A pairing project from my second week at Makers, creating a basic clone of the Oystercard system. Demonstrates how quickly I picked up excellent pairing and OO design skills.                                                                                                                                               | 2         | Ruby                                                                      | RSpec                                             |
+| Bank Tech Test          | A simple practice Tech Test written in Ruby. Fulfilled several user story objectives to build deposit, withdraw and view transaction functionality, with the end goal being to print a statement to the console.  Demonstrates good separation of concerns, my ability to write clean, DRY code, and excellent Git workflow. | 1         | Ruby                                                                      | RSpec                                             |
 
 ## Skills
 
@@ -46,24 +55,23 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Lambeth College (September 2010 to July 2011)
 
-- Level 4 Access to Medicine GNVQ
-- Distinction
+- Obtained a Distinction in a Level 4 Access to Medicine GNVQ
 
 #### Birmingham University (September 2005 to July 2007)
 
-Foundation certificate in Political Science
+- Awarded a foundation certificate in Political Science
 
 #### Orpington College (September 2003 to June 2004)
 
-AS Summer 2003 - B Sociology AQA
-A2 Summer 2003 - A Geography AQA C Politics EdExcel
+- AS Summer 2003 - B Sociology AQA
+- A2 Summer 2003 - A Geography AQA C Politics EdExcel
 
 #### Alleyns School (September 1995 to June 2002)
 
-AS Summer 2002 - A Geography AQA B Computing AQA B Politics AQA
-A2 Summer 2001 - B General Studies AQA
+- AS Summer 2002 - A Geography AQA B Computing AQA B Politics AQA
+- A2 Summer 2001 - B General Studies AQA
 
-5 A's and 4 B's at GCSE
+- 5 A's and 4 B's at GCSE
 
 ## Experience
 
