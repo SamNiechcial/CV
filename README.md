@@ -2,13 +2,15 @@
 
 I am a full stack web developer, I've just finished the Makers Academy bootcamp, and I'm looking for work in web development.
 
+I've been a computer user for as long as I can remember. In fact, the first code that I ever wrote was in BASIC on a green-screen BBC computer at primary school!
+
 Independently, in pairs, and in small teams, I've created object-oriented applications, in both Ruby and JavaScript, using a variety of frameworks including Ruby on Rails, Node and Express.
 
 I'm a socially and environmentally conscientious ENTP guy with a passion for music, reading, forging new neural pathways and writing clean and efficient code. As a outgoing debater personality type, I'm not afraid to raise issues I may have with working practices wherever I see them, and will make an engaging and enlivening addition to any team which takes me on.
 
 In my diverse career to date, I've worked in healthcare, social care, tech support and startups, fuelled throughout by my desire to learn, try my hand at new challenges, and help those less fortunate than myself.
 
-I'm currently looking for a Junior Developer role, ideally in a unbounded environment where taking best practice approaches (and having the freedom to debate those approaches) are more important than blindly following orders, and ethical codes are valued over dress codes.
+My ideal development role would be in a small to medium sized company, with a good sense of community, where taking best practice approaches (and having the freedom to debate those approaches) are more important than blindly following orders, and ethical codes are valued over dress codes.
 
 [PROJECTS](##Projects) | [EDUCATION](##Education) | [EXPERIENCE](##Experience) | [INTERESTS](##Interests)
 
@@ -25,16 +27,17 @@ I'm currently looking for a Junior Developer role, ideally in a unbounded enviro
 
 #### Makers Academy (March to June 2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+- Graduated 8th of June 2018
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+I'm curious and passionate about computing in general and code in particular. I enjoy the challenge of writing Kata solutions on code wars, and as well as attending Makers, I've taken it upon myself to attend meet-ups (to engage with the welcoming coding community) and hackathons (to learn and contribute to open source projects). The next one I will be attending is the NHS hackathon at the end of June, which promises to be a great combination of worthwhile work, with interesting code, from a background in which I have some experience. I want to present our final project prescription blockchain there, as I feel it really has the capacity to make a difference.
 
-At Makers, we are trained to be language agnostic developers, with a strong foundation in the principles of OO design, so I will be quick to pick up syntax and follow style guides in new languages at any job I take up. I'm fully up to date with modern web development best practice. All the projects I've written or contributed to writing have been created using a strict test first approach, and I follow good practice in git workflow, agile methodology (with regular stand-ups and two day sprints) and continuous feedback.
+At Makers, we are trained to be independent, language agnostic developers with a strong foundation in the principles of Object-Oriented design. This approach has given me a strong Google game. I understand the importance of referring frequently to the documentation, I'm aware of other resources (like stack overflow), and I know how to escalate my process accordingly when I'm blocked. As a result, I'm competent building test-driven full stack applications in Ruby (standalone or with Rails, tested with RSpec) or Javascript (with Node & Express, tested with Jasmine). I will be quick to pick up syntax in new languages at any job I take up, and I won't prove an unnecessary drain on resources while doing so.
+
+I'm fully up to date with modern web development best practice. All the projects I've written or contributed to writing have been created using a strict test first approach. I follow good practice in git workflow, as my bank tech test above demonstrates. I have a tendency toward perfectionism, which I consciously mediate due to the constant time pressure in the development environment, but one thing that it definitely drives me towards is writing clean, DRY, readable code.
+
+I'm a great collaborator, and I love to work in pairs or in teams. I spent an entire week fairly early on in the course at Makers teaching the same first half of the week's challenges to four separate daily pair partners, because I am of the opinion that the best way to tell if you really know something is if you can teach it well!
+
+When I was working in teams, I really enjoyed the whole process of collaborating with and organising the team, and enforced good management of the full agile workflow, with two day sprint plans, daily stand-ups and retros and regular mini-retro/knowledge shares for continuous feedback. I took it upon myself to keep a well maintained Kanban board, with metrics to improve our time on task estimations, and encouraged my team members to consistently break down big goals into smaller, more manageable tasks.
 
 #### Lambeth College (September 2010 to July 2011)
 
