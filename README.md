@@ -2,13 +2,11 @@
 
 I am a full stack web developer, I've just finished the Makers Academy bootcamp, and I'm looking for work in web development.
 
-I've been a computer user for as long as I can remember. In fact, the first code that I ever wrote was in BASIC on a green-screen BBC computer at primary school!
-
-Independently, in pairs, and in small teams, I've created object-oriented applications, in both Ruby and JavaScript, using a variety of frameworks including Ruby on Rails, Node and Express.
-
 I'm a socially and environmentally conscientious ENTP guy with a passion for music, reading, forging new neural pathways and writing clean and efficient code. As a outgoing debater personality type, I'm not afraid to raise issues I may have with working practices wherever I see them, and will make an engaging and enlivening addition to any team which takes me on.
 
 In my diverse career to date, I've worked in healthcare, social care, tech support and startups, fuelled throughout by my desire to learn, try my hand at new challenges, and help those less fortunate than myself.
+
+I've been a computer user for as long as I can remember. In fact, the first code that I ever wrote was in BASIC on a green-screen BBC computer at primary school. Independently, in pairs, and in small teams, I've created object-oriented applications, in both Ruby and JavaScript, using a variety of frameworks including Ruby on Rails, Node and Express.
 
 My ideal development role would be in a small to medium sized company, with a good sense of community, where taking best practice approaches (and having the freedom to debate those approaches) are more important than blindly following orders, and ethical codes are valued over dress codes.
 
