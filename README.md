@@ -2,15 +2,15 @@
 
 I am a full stack web developer, I've just finished the Makers Academy bootcamp, and I'm looking for work in web development.
 
-Independently, in pairs, and in small teams, I've created object-oriented applications, in both Ruby and JavaScript, using a variety of frameworks including Ruby on Rails and Express. At Makers, we are trained to be language agnostic developers, with a strong foundation in the principles of OO design, so I will be quick to pick up syntax and follow style guides in new languages at any job I take up. I'm fully up to date with modern web development best practice. All the projects I've written or contributed to writing have been created using a strict test first approach, and I follow good practice in git workflow, agile methodology (with regular stand-ups and two day sprints) and continuous feedback.
+Independently, in pairs, and in small teams, I've created object-oriented applications, in both Ruby and JavaScript, using a variety of frameworks including Ruby on Rails, Node and Express.
 
-I'm a socially and environmentally conscientious ENTP guy with ADH tendencies and a passion for music, reading, forging new neural pathways and writing clean and efficient code. As a outgoing debater personality type, I'm not afraid to raise issues I may have with working practices wherever I see them, and will make an engaging and enlivening addition to any team which takes me on.
+I'm a socially and environmentally conscientious ENTP guy with a passion for music, reading, forging new neural pathways and writing clean and efficient code. As a outgoing debater personality type, I'm not afraid to raise issues I may have with working practices wherever I see them, and will make an engaging and enlivening addition to any team which takes me on.
 
 In my diverse career to date, I've worked in healthcare, social care, tech support and startups, fuelled throughout by my desire to learn, try my hand at new challenges, and help those less fortunate than myself.
 
 I'm currently looking for a Junior Developer role, ideally in a unbounded environment where taking best practice approaches (and having the freedom to debate those approaches) are more important than blindly following orders, and ethical codes are valued over dress codes.
 
-[PROJECTS](##Projects) | [EDUCATION](##Education) | [EXPERIENCE](##Experience) |  [INTERESTS](##Interests)
+[PROJECTS](##Projects) | [EDUCATION](##Education) | [EXPERIENCE](##Experience) | [INTERESTS](##Interests)
 
 ## Projects
 
@@ -33,6 +33,8 @@ I'm currently looking for a Junior Developer role, ideally in a unbounded enviro
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
+
+At Makers, we are trained to be language agnostic developers, with a strong foundation in the principles of OO design, so I will be quick to pick up syntax and follow style guides in new languages at any job I take up. I'm fully up to date with modern web development best practice. All the projects I've written or contributed to writing have been created using a strict test first approach, and I follow good practice in git workflow, agile methodology (with regular stand-ups and two day sprints) and continuous feedback.
 
 #### Lambeth College (September 2010 to July 2011)
 
@@ -57,6 +59,7 @@ I'm currently looking for a Junior Developer role, ideally in a unbounded enviro
 ## Experience
 
 **Revelations Across Nations (World Travel Blog)** (October 2016 to October 2017)
+
 *Copy Editor & Photographer*
 
 - Proof-read, correct spelling and grammar errors and suggest phrasing changes
@@ -65,7 +68,8 @@ I'm currently looking for a Junior Developer role, ideally in a unbounded enviro
 - [Revelations Across Nations](https://revelationsacrossnations.com/)
 
 
-**Deliveroo** (January 2016 to September 2016)    
+**Deliveroo** (January 2016 to September 2016)
+
 *Regional Pipeline Manager*
 
 - Manage new rider supply for 12 cities in Scotland and the North of the UK
@@ -75,14 +79,16 @@ I'm currently looking for a Junior Developer role, ideally in a unbounded enviro
 - Manage and maintain the telephony and broadband hardware in the office
 - Liaise with VOIP telephony provider to resolve service issues
 
-**House Doctor** (October 2011 to January 2016)   
+**House Doctor** (October 2011 to January 2016)
+
 *Personal IT Assistant & Handyman*
 
 - Provide tailored home IT support services to clients as requested
 - Assist with general household maintainence work, including tiling, basic woodwork, plumbing, electrical installations and maintainance of white goods
 
 **NHS** (March 2004 to October 2011)
-*Locum Phlebotomist & Research Assistant*
+
+*Locum Phlebotomist, Physicians Assistant & Research Assistant*
 
 - Draw blood samples for biochemical analysis
 - Understand analytical requirements and draw blood samples as appropriate
@@ -92,6 +98,7 @@ I'm currently looking for a Junior Developer role, ideally in a unbounded enviro
 - Respond with appropriate first aid to vasovagal patients
 
 **Jigsaw 4 U** (August 2003 to October 2011)
+
 *Young Persons Advocate*
 
 - Work flexibly around the country, including driving and long-distance visits
