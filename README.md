@@ -10,7 +10,7 @@ In my diverse career to date, I've worked in healthcare, social care, tech suppo
 
 I'm currently looking for a Junior Developer role, ideally in a unbounded environment where taking best practice approaches (and having the freedom to debate those approaches) are more important than blindly following orders, and ethical codes are valued over dress codes.
 
-[PROJECTS](##Projects) | [SKILLS](##Skills) | [EDUCATION](##Education) | [EXPERIENCE](##Experience) |  [INTERESTS](##Interests)
+[PROJECTS](##Projects) | [EDUCATION](##Education) | [EXPERIENCE](##Experience) |  [INTERESTS](##Interests)
 
 ## Projects
 
@@ -20,25 +20,6 @@ I'm currently looking for a Junior Developer role, ideally in a unbounded enviro
 | [Acebook](https://github.com/SamNiechcial/acebook-jspesh)                    | We created a Facebook clone with the objective of familiarising ourselves with Rails.  Demonstrates good Agile teamwork, Git workflow and understanding of database and routing structure.  Excellent test coverage (100%) with an A for code maintainability from CodeClimate.                                              | 4         | Heroku, HTML/CSS, PostgreSQL, Ruby, Rails                                 | Capybara, Code Climate, RSpec, Rubocop, Travis CI |
 | [Oystercard Challenge](https://github.com/SamNiechcial/oystercard_challenge) | A pairing project from my second week at Makers, creating a basic clone of the Oystercard system. Demonstrates how quickly I picked up excellent pairing and OO design skills.                                                                                                                                               | 2         | Ruby                                                                      | RSpec                                             |
 | [Bank Tech Test](https://github.com/SamNiechcial/RubyBankTT)                 | A simple practice Tech Test written in Ruby. Fulfilled several user story objectives to build deposit, withdraw and view transaction functionality, with the end goal being to print a statement to the console.  Demonstrates good separation of concerns, my ability to write clean, DRY code, and excellent Git workflow. | 1         | Ruby                                                                      | RSpec                                             |
-
-## Skills
-
-####
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
@@ -75,7 +56,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**World Travel Blog** (October 2016 to October 2017)
+**Revelations Across Nations (World Travel Blog)** (October 2016 to October 2017)
 *Copy Editor & Photographer*
 
 - Proof-read, correct spelling and grammar errors and suggest phrasing changes
@@ -91,7 +72,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Process, assess, and make decisions on applications for new rider positions, utilizing a variety of specialist and bespoke software and web platforms
 - Support the monitoring of applications against targets, alerting senior staff to any potential problems as necessary
 - Provide on-the-ground feedback on software and hardware tooling to senior management to assist further development of the application process
-- Manage and maintain the telephony and broadband hardware in the o ce
+- Manage and maintain the telephony and broadband hardware in the office
 - Liaise with VOIP telephony provider to resolve service issues
 
 **House Doctor** (October 2011 to January 2016)   
